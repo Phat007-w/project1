@@ -1,0 +1,28 @@
+# ⛔ ห้ามอัป secrets ที่มี API keys
+.streamlit/secrets.toml
+
+# 🧹 ลบไฟล์ชั่วคราวของ Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# 🧩 ลบ environment ส่วนตัว (เช่น venv)
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# 🗂 ลบไฟล์ระบบ / cache
+.DS_Store
+Thumbs.db
+
+# 🧰 ลบ log และ temp
+*.log
+*.tmp
+
+# 📦 ลบโฟลเดอร์ build หรือ export
+build/
+dist/

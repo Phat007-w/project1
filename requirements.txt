@@ -1,0 +1,10 @@
+streamlit>=1.22
+yfinance
+pandas
+numpy
+plotly
+feedparser
+fastapi
+uvicorn
+scikit-learn
+streamlit-autorefresh
