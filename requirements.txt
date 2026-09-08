@@ -1,10 +1,10 @@
-streamlit>=1.22
+streamlit
+streamlit-autorefresh
 yfinance
 pandas
 numpy
 plotly
-feedparser
-fastapi
-uvicorn
 scikit-learn
-streamlit-autorefresh
+requests
+python-dateutil
+openai
